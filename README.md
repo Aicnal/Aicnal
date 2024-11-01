@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aicnal</h1>
 <h3 align="center">A student from CNU.</h3>
 
-- 🌱 I’m currently learning **Go, Python, Docker.**
+- 🌱 I’m currently learning **Go, Python, Docker, JavaScript.**
 
 - 📝 I regularly write articles on [duckk.org](https://duckk.org)
 
