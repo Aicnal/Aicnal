@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Go, Python, Docker.**
 
-- 📝 I regularly write articles on [blog.juniortree.com](blog.juniortree.com)
+- 📝 I regularly write articles on [duckk.org](https://duckk.org)
+
+- 🐱 If you wanna know more about my life [blog.juniortree.com](https://blog.juniortree.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
